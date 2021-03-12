@@ -14,7 +14,7 @@ import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
 import parameters
-import functions
+import functions
 
 if (cv. __version__ != "4.4.0"):
   print("Please install cv2 version 4.4.0")
