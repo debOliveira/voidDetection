@@ -1,6 +1,7 @@
 # Void detection using optical flow and vanishing points voting
 
 In this work, we rely on algorithms that **extract vanishing points** from a pair of images captured via a _monocular camera_. These points are **voted using optical flow** to **estimate the furthest empty plane** from the camera to which the linear trajectory from the quadcopter is free of obstacles. This approach requires low-computational power and excludes the need for 3D models, external sensors or camera parameters. 
+
 ![image](https://drive.google.com/uc?export=view&id=1rJ8vTF5vADZwNEFQt16ox9MjS2wA2Mql)
 
 ## Using this code
