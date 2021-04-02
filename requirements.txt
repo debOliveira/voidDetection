@@ -1,1 +1,9 @@
 opencv-contrib-python==4.4.0.44
+numpy
+matplotlib
+sys
+math
+warnings
+sklearn
+seaborn
+scipy
