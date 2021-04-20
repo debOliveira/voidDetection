@@ -2,7 +2,7 @@
 
 In this work, we rely on algorithms that **extract vanishing points** from a pair of images captured via a _monocular camera_. These points are **voted using optical flow** to **estimate the furthest empty plane** from the camera to which the linear trajectory from the quadcopter is free of obstacles. This approach requires low-computational power and excludes the need for 3D models, external sensors or camera parameters. 
 
-![image](https://drive.google.com/uc?export=view&id=1rJ8vTF5vADZwNEFQt16ox9MjS2wA2Mql=500x)
+<img src="https://drive.google.com/uc?export=view&id=1rJ8vTF5vADZwNEFQt16ox9MjS2wA2Mql" width="800"/>
 
 ## Using this code
 
@@ -10,7 +10,7 @@ One can download the [notebook](notebook/public_opticalFlow_NavigationNet.ipynb)
 
 The visual verbose of the code was deactivated due to simplification. The code workflow is as below.
 
-![image](https://drive.google.com/uc?export=view&id=1-NY6VPRw3nsQc79HcUCBdXsx1qXVPEbu=500x)
+<img src="https://drive.google.com/uc?export=view&id=1-NY6VPRw3nsQc79HcUCBdXsx1qXVPEbu" width="1000"/>
 
 ### Sample dataset
 
@@ -20,12 +20,11 @@ The images used are from the [NavigationNet dataset](https://www.mvig.org/resear
 
 The green scatter plot represents the cluster centers. The yellow point indicates the LMCC. The white and red dots mark, respectively,  the elected  and rejected VP by the voting algorithm. The blue dot points the valid but non-elected VP.
 
+<img src="https://drive.google.com/uc?export=view&id=10nrftDbwnmYQY-q2ntBfhLlo7sSH3ZIS" width="500"/>
 
-![image](https://drive.google.com/uc?export=view&id=10nrftDbwnmYQY-q2ntBfhLlo7sSH3ZIS=500x)
+<img src="https://drive.google.com/uc?export=view&id=11G2-y6lKZ97PvP6POItSAwuD_wb3ud84" width="500"/>
 
-![image](https://drive.google.com/uc?export=view&id=11G2-y6lKZ97PvP6POItSAwuD_wb3ud84=500x)
-
-![image](https://drive.google.com/uc?export=view&id=12CyB4trHjvBehtxVvE6yka7IptRLTaDo=500x)
+<img src="https://drive.google.com/uc?export=view&id=12CyB4trHjvBehtxVvE6yka7IptRLTaDo" width="500"/>
 
 ### Still to update
 
