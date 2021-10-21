@@ -7,6 +7,7 @@ This was a published paper in the **SBAI 2021** (deferred, waiting DOI). In this
 In this work, we rely on algorithms that **extract vanishing points** from a pair of images captured via a _monocular camera_. These points are **voted using optical flow** to **estimate the furthest empty plane** from the camera to which the linear trajectory from the quadcopter is free of obstacles. This approach requires low-computational power and excludes the need for 3D models, external sensors or camera parameters. 
 
 <p align="center"><img src="https://user-images.githubusercontent.com/48807586/133134034-49e1b6e9-eaba-4d26-9ca3-5bca7f438caa.png" width="500"/></p>
+
 ## Using this code
 
 One can download the [notebook](notebook/public_opticalFlow_NavigationNet.ipynb) and compile in Jupyter or Collab. For easier use, all the funcstions can be found in the [py files folder](py%20files/). 
