@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/static/v1?style=flat&logo=github&label=status&message=finished&color=red) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)  [![GitHub forks](https://img.shields.io/github/forks/debOliveira/voidDetection.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/debOliveira/voidDetection/network/) [![GitHub stars](https://img.shields.io/github/stars/debOliveira/voidDetection.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/debOliveira/voidDetection/stargazers/) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdebOliveira%2FvoidDetection&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-This was a published paper in the **SBAI 2021** (deferred, waiting DOI). In this conference, this paper was **given honorable mention in the undergraduate category**.
+This was a published paper in the **SBAI 2021** ([link to paper](https://www.sba.org.br/open_journal_systems/index.php/sbai/article/view/2586)). In this conference, this paper was **given honorable mention in the undergraduate category**.
 
 In this work, we rely on algorithms that **extract vanishing points** from a pair of images captured via a _monocular camera_. These points are **voted using optical flow** to **estimate the furthest empty plane** from the camera to which the linear trajectory from the quadcopter is free of obstacles. This approach requires low-computational power and excludes the need for 3D models, external sensors or camera parameters. 
 
