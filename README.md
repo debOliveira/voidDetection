@@ -32,7 +32,3 @@ The green scatter plot represents the cluster centers. The yellow point indicate
   <img src="https://user-images.githubusercontent.com/48807586/133134475-128747a6-aaa4-4811-851d-7caf8a13bca2.jpg" width="500"/>
 </p>
 
-### Still to update
-
-- [x] Commit separate functions and requirements text file
-- [ ] Push the visual verbose notebook
