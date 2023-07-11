@@ -9,7 +9,7 @@ Adopt a trajectory free of obstacles using an optical flow voting scheme for van
 ## :crossed_swords: Usage
 
 - Download the [NavigationNet dataset](https://www.mvig.org/research/nav/NavigationNet.html).
-- Substitute the path in the [notebook](notebook/voidDetection.ipynb) in cell 8.
+- Substitute the path in the [notebook](voidDetection.ipynb) in cell 8.
 - `pip install -r requirements.txt`
 - Run :runner:
 
